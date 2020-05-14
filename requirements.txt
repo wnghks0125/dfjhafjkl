@@ -1,2 +1,1 @@
-import discord==1.0.1
-import asyncio==3.4.3
+
