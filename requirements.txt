@@ -1,4 +1,2 @@
-import discord==0.16.12
+import discord==1.0.1
 import asyncio==3.4.3
-import openpyxl==3.0.3
-import bs4==0.0.1
