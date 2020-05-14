@@ -1,13 +1,6 @@
-import random
 import discord
-import json
 import asyncio
 import openpyxl
-import youtube_dl
-import urllib
 import bs4
-import os
 import sys
-import json
-import time
 import datetime
